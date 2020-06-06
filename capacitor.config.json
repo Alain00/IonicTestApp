@@ -1,0 +1,10 @@
+{
+  "webDir": "build",
+  "appId": "com.test.test",
+  "appName": "TestingApp",
+  "npmClient": "yarn",
+  "windowsAndroidStudioPath": "H:/Instaladores/Android/android-studio-3-4-2-64-bit/android-studio/bin/studio64.exe",
+  "android": {
+    "captureInput": false
+  }
+}
